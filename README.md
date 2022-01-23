@@ -2,7 +2,7 @@
 
 Passionate Brazil-based Front-End Developer
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
+## <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me:
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
