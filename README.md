@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lucas Zambam 👋
 
-Passionate Brazil-based Front-End Developer
+Passionate Brazil-based FullStack Developer
 
 ## <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me:
 
