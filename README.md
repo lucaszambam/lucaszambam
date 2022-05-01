@@ -8,21 +8,21 @@ Passionate Brazil-based FullStack Developer
 
 ```js
 function Me() {
- let name = "Lucas Zambam"
- let profession = "Junior Dev"
- let age = 18
- let acknowledgements = "Information Systems"
+ const name = "Lucas Zambam";
+ let profession = "Junior Dev";
+ let age = 18;
+ let acknowledgements = "Information Systems";
  
- let primarySkillset = ["Team Work", "Self Taught", "Clean Code"]
- let technologies = ["Java", "Python", "JavaScript", "PHP", "React.js", "HTML5", "CSS"]
+ let primarySkillset = ["Team Work", "Self Taught", "Clean Code"];
+ let technologies = ["PHP", "JavaScript", "Python", "React.js", "Vue.js", "HTML5", "CSS"];
 }
 ```
 
 ## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
