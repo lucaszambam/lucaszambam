@@ -14,7 +14,7 @@ function Me() {
  let acknowledgements = "Information Systems";
  
  let primarySkillset = ["Team Work", "Self Taught", "Clean Code"];
- let technologies = ["PHP", "JavaScript", "Python", "React.js", "Vue.js", "HTML5", "CSS"];
+ let technologies = ["PHP", "JavaScript", "Vue.js", "PostgreSQL"];
 }
 ```
 
