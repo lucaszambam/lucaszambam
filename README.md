@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lucas Zambam 👋
+## Hello World! I'm Lucas Zambam 👋
 
 Passionate Brazil-based FullStack Developer
 
