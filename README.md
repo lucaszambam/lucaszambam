@@ -9,8 +9,8 @@ Passionate Brazil-based FullStack Developer
 ```js
 function Me() {
  const name = "Lucas Zambam";
- let profession = "Junior Dev";
- let age = 18;
+ let profession = "FullStack Dev";
+ let age = 19;
  let acknowledgements = "Information Systems";
  
  let primarySkillset = ["Team Work", "Self Taught", "Clean Code"];
