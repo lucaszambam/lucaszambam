@@ -2,21 +2,7 @@
 
 Passionate Brazil-based FullStack Developer
 
-## <img width="40" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me:
-
 <img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-
-```js
-function Me() {
- const name = "Lucas Zambam";
- let profession = "FullStack Dev";
- let age = 19;
- let acknowledgements = "Information Systems";
- 
- let primarySkillset = ["Team Work", "Self Taught", "Clean Code"];
- let technologies = ["PHP", "JavaScript", "Vue.js", "PostgreSQL"];
-}
-```
 
 ## **Languages and Tools:**  
 
